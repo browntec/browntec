@@ -5,4 +5,4 @@
 	•	My top used stacks are Aws services, Azure, CI/CD, Docker, Kubernates, Microservices, Linus, Git
 	•	Ask me about anything cloud DevOps,Cloud Architecture, Data Science, Machine Learning, Web development and anything about data.
 	•	📫 You can reach me on kloudmaster@gmail.com
-	•I love Soccer and want to start playing golf next summer
+	•	I love Soccer and want to start playing golf next summer
