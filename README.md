@@ -1,5 +1,5 @@
 	•👋 Hi, I’m FRANK IDUGBOE
-	•👀 I’m interested in Cloud Devops, Cloud Development, Cloud Architecture, Data Science, Data Analysis, AI,
+	•👀 I’m interested in Cloud Devops, Cloud Development, Cloud Architecture, Data Analysis, AI,
 	     and Machine Learning. 
 	•🌱 I’m currently into cloud DevOps, Cloud Architecture and Cloud Computing.
 	•💞️ I’m looking to collaborate working on a variety of technologies including Aws,Azure and Google cloud, 
