@@ -15,5 +15,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: browntec/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/kloudmaster"
+          feed_list: "https://github.com/browntec/my-blog-posts"
 
