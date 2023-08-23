@@ -33,42 +33,41 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Frank Idugboe
-located_in: Lagos, Nigeria
-current_job: Cloud Devops Engineer
-education:
+Name: Frank Idugboe
+Location: Lagos, Nigeria
+Current job: DevOps Engineer
+Education:
   [
     "Self-Taught Developer",
-    "HND in Electrical Electronics Engineering",
+    "HND in Electrical and Electronics Engineering",
   ]
-company: Yebox Technologies
+Company: Yebox Technologies
 
 fields_of_interests:
   [
     "DevOps",
-    "Web Development",
     "Cyber Security",
+    "Artificial Intelligence",
     "Machine Learning",
-    "Game Development",
     
   ]
 technical_background:
   [
-    "Full-Time - Cloud DevOps Engineering",
-    "Full-Time - Solutions Architect",
-    "Apprenticeship - Devops/Infosec Engineering",
-    "Full-Time - Technical Support Engineering",
-    "Full-Time - Systems Administration",
+    "Full-Time: Cloud DevOps Engineering",
+    "Full-Time: Solutions Architect",
+    "Apprenticeship in Devops/Infosec Engineering",
+    "Full-Time: Technical Support Engineering",
+    "Full-Time: Systems Administration",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
+currently_learning: ["Docker, Kubernetes, terraform and React Native"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Playing Golf", "Sigthseeing", "Comedy"]
+hobbies: ["Gaming", "Playing Golf", "Cooking"]
 ```
   
 ---  
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learnt</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
